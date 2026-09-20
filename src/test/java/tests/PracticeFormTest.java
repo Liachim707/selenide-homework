@@ -78,7 +78,7 @@ class PracticeFormTest {
     }
 
     @AfterEach
-    void tearDown() {Л
+    void tearDown() {
         closeWebDriver();
     }
 }
